@@ -1,0 +1,2 @@
+1. Messenger
+So, this is a program written completely in java that uses sockets. It creates a non-P2P connection between two computers and both the computers can send messages to each other until one closes the connection
